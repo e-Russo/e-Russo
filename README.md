@@ -1,3 +1,4 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=120&section=header"/>
 <h1 align="center">Hi 👋 I'm Emanuele Russo</h1>
 
 <p align="center">
