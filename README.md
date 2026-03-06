@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋 I'm Emanuele Russo</h1>
 
 <p align="center">
-Frontend Engineer • TypeScript Specialist • React Ecosystem
+Frontend Engineer • TypeScript Specialist • React Ecosystems
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Frontend+Engineer+from+Italy+🇮🇹;TypeScript+%2B+React+Specialist;Enterprise+Frontend+Developer;Passionate+about+modern+web+experiences" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=2000&pause=2000&color=A855F7&center=true&vCenter=true&width=650&lines=Frontend+Engineer+from+Italy+🇮🇹;TypeScript+%2B+React+Specialist;Enterprise+Frontend+Developer;Passionate+about+modern+web+experiences" />
 </p>
 
 ---
