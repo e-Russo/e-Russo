@@ -41,36 +41,75 @@ Completed the first academic year successfully before focusing full-time on prof
 
 # 🧰 Tech Stack
 
-### Languages
+## Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-2B0B3F?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-2B0B3F?style=for-the-badge&logo=typescript)
-![HTML5](https://img.shields.io/badge/HTML5-2B0B3F?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-2B0B3F?style=for-the-badge&logo=css3)
-
----
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-2B0B3F?style=for-the-badge&logo=react)
-![TanStack](https://img.shields.io/badge/TanStack-2B0B3F?style=for-the-badge&logo=reactquery)
-![Chakra UI](https://img.shields.io/badge/ChakraUI-2B0B3F?style=for-the-badge&logo=chakraui)
-![jQuery](https://img.shields.io/badge/jQuery-2B0B3F?style=for-the-badge&logo=jquery)
+![JavaScript](https://img.shields.io/badge/JavaScript-2B0B3F?style=for-the-badge\&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-2B0B3F?style=for-the-badge\&logo=typescript)
+![HTML5](https://img.shields.io/badge/HTML5-2B0B3F?style=for-the-badge\&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-2B0B3F?style=for-the-badge\&logo=css3)
+![C](https://img.shields.io/badge/C-2B0B3F?style=for-the-badge\&logo=c)
+![Java](https://img.shields.io/badge/Java-2B0B3F?style=for-the-badge\&logo=java)
+![Python](https://img.shields.io/badge/Python-2B0B3F?style=for-the-badge\&logo=python)
 
 ---
 
-### Platforms / Ecosystem
+## Frontend
 
-![Shopify](https://img.shields.io/badge/Shopify-2B0B3F?style=for-the-badge&logo=shopify)
-![Salesforce](https://img.shields.io/badge/Salesforce-2B0B3F?style=for-the-badge&logo=salesforce)
+![React](https://img.shields.io/badge/React-2B0B3F?style=for-the-badge\&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-2B0B3F?style=for-the-badge\&logo=nextdotjs)
+![TanStack](https://img.shields.io/badge/TanStack-2B0B3F?style=for-the-badge\&logo=reactquery)
+![Chakra UI](https://img.shields.io/badge/ChakraUI-2B0B3F?style=for-the-badge\&logo=chakraui)
+![SASS](https://img.shields.io/badge/SASS-2B0B3F?style=for-the-badge\&logo=sass)
+![jQuery](https://img.shields.io/badge/jQuery-2B0B3F?style=for-the-badge\&logo=jquery)
+![AstroJS](https://img.shields.io/badge/AstroJS-2B0B3F?style=for-the-badge\&logo=astro)
 
-**Experience with**
+---
 
-- Lightning Web Components (LWC)
-- CoreMedia CMS
-- Enterprise frontend architecture
-- Design systems
-- Headless commerce
+## Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-2B0B3F?style=for-the-badge\&logo=node.js)
+![PHP](https://img.shields.io/badge/PHP-2B0B3F?style=for-the-badge\&logo=php)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-2B0B3F?style=for-the-badge\&logo=springboot)
+
+---
+
+## Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-2B0B3F?style=for-the-badge\&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-2B0B3F?style=for-the-badge\&logo=mongodb)
+
+---
+
+## DevOps / CI-CD
+
+![Git](https://img.shields.io/badge/Git-2B0B3F?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-2B0B3F?style=for-the-badge\&logo=github)
+![GitLab](https://img.shields.io/badge/GitLab-2B0B3F?style=for-the-badge\&logo=gitlab)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-2B0B3F?style=for-the-badge\&logo=bitbucket)
+![Jira](https://img.shields.io/badge/Jira-2B0B3F?style=for-the-badge\&logo=jira)
+![Docker](https://img.shields.io/badge/Docker-2B0B3F?style=for-the-badge\&logo=docker)
+
+---
+
+## Platforms / Ecosystem
+
+![Shopify](https://img.shields.io/badge/Shopify-2B0B3F?style=for-the-badge\&logo=shopify)
+![Salesforce](https://img.shields.io/badge/Salesforce-2B0B3F?style=for-the-badge\&logo=salesforce)
+
+** Other Experience: **
+
+* Lightning Web Components (LWC)
+* CoreMedia CMS
+* Enterprise frontend architecture
+* Design systems
+* Headless commerce
+
+---
+
+## Environment / Tools
+
+![Ubuntu](https://img.shields.io/badge/Ubuntu-2B0B3F?style=for-the-badge\&logo=ubuntu)
+![Nginx](https://img.shields.io/badge/Nginx-2B0B3F?style=for-the-badge\&logo=nginx)
 
 ---
 
