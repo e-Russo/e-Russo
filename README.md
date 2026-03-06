@@ -12,12 +12,12 @@ Frontend Engineer • TypeScript Specialist • React Ecosystem
 
 ## 🚀 About Me
 
-💻 Frontend Engineer with **several years of professional experience in enterprise environments**
+💻 Frontend Engineer with **several years of experience in enterprise environments**
 
 🎓 Background in **Computer Science (High School)** and **Computer Engineering (University)**  
-Focused on real-world engineering experience while continuing personal academic growth.
+Completed the first academic year successfully before focusing full-time on professional development and real-world engineering experience.
 
-🏢 I've worked on projects involving brands like:
+🏢 I've contributed to projects involving brands like:
 
 - Calzedonia
 - Intimissimi
@@ -31,19 +31,17 @@ Focused on real-world engineering experience while continuing personal academic 
 🌍 Portfolio  
 👉 **https://emanuelerusso.dev**
 
-🎮 Outside tech I love:
+🎮 Outside tech I enjoy:
 
 - Gaming
 - Sports
 - Mountain trips
 
-🇮🇹 **22 years old — Italy**
-
 ---
 
 # 🧰 Tech Stack
 
-## Languages
+### Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-2B0B3F?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-2B0B3F?style=for-the-badge&logo=typescript)
@@ -52,7 +50,7 @@ Focused on real-world engineering experience while continuing personal academic 
 
 ---
 
-## Frontend
+### Frontend
 
 ![React](https://img.shields.io/badge/React-2B0B3F?style=for-the-badge&logo=react)
 ![TanStack](https://img.shields.io/badge/TanStack-2B0B3F?style=for-the-badge&logo=reactquery)
@@ -61,7 +59,7 @@ Focused on real-world engineering experience while continuing personal academic 
 
 ---
 
-## Platforms / Ecosystem
+### Platforms / Ecosystem
 
 ![Shopify](https://img.shields.io/badge/Shopify-2B0B3F?style=for-the-badge&logo=shopify)
 ![Salesforce](https://img.shields.io/badge/Salesforce-2B0B3F?style=for-the-badge&logo=salesforce)
@@ -108,6 +106,10 @@ Focused on real-world engineering experience while continuing personal academic 
 <img src="https://img.shields.io/badge/GitHub-2B0B3F?style=for-the-badge&logo=github"/>
 </a>
 
+<a href="https://linkedin.com/in/emanuelerusso03">
+<img src="https://img.shields.io/badge/LinkedIn-2B0B3F?style=for-the-badge&logo=linkedin"/>
+</a>
+
 </p>
 
 ---
@@ -116,4 +118,4 @@ Focused on real-world engineering experience while continuing personal academic 
 💜 Passionate about building modern web experiences
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=120&section=footer"/>
