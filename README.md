@@ -96,7 +96,7 @@ Completed the first academic year successfully before focusing full-time on prof
 ![Shopify](https://img.shields.io/badge/Shopify-2B0B3F?style=for-the-badge\&logo=shopify)
 ![Salesforce](https://img.shields.io/badge/Salesforce-2B0B3F?style=for-the-badge\&logo=salesforce)
 
-** Other Experience: **
+### Other Experience:
 
 * Lightning Web Components (LWC)
 * CoreMedia CMS
