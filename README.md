@@ -119,6 +119,7 @@ Completed the first academic year successfully before focusing full-time on prof
 ![Nginx](https://img.shields.io/badge/Nginx-2B0B3F?style=for-the-badge\&logo=nginx)
 ![Eslint](https://img.shields.io/badge/Eslint-2B0B3F?style=for-the-badge\&logo=eslint)
 ![Prettier](https://img.shields.io/badge/Prettier-2B0B3F?style=for-the-badge\&logo=prettier)
+![Google Analytics](https://img.shields.io/badge/GoogleAnalytics-2B0B3F?style=for-the-badge\&logo=googleanalytics)
 
 ---
 
