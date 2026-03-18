@@ -63,6 +63,8 @@ Completed the first academic year successfully before focusing full-time on prof
 ![SASS](https://img.shields.io/badge/SASS-2B0B3F?style=for-the-badge\&logo=sass)
 ![jQuery](https://img.shields.io/badge/jQuery-2B0B3F?style=for-the-badge\&logo=jquery)
 ![AstroJS](https://img.shields.io/badge/AstroJS-2B0B3F?style=for-the-badge\&logo=astro)
+![Jest](https://img.shields.io/badge/Jest-2B0B3F?style=for-the-badge\&logo=jest)
+![Vitest](https://img.shields.io/badge/Vitest-2B0B3F?style=for-the-badge\&logo=vitest)
 
 ---
 
@@ -71,6 +73,7 @@ Completed the first academic year successfully before focusing full-time on prof
 ![Node.js](https://img.shields.io/badge/Node.js-2B0B3F?style=for-the-badge\&logo=node.js)
 ![PHP](https://img.shields.io/badge/PHP-2B0B3F?style=for-the-badge\&logo=php)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-2B0B3F?style=for-the-badge\&logo=springboot)
+![Express](https://img.shields.io/badge/Express-2B0B3F?style=for-the-badge\&logo=express)
 
 ---
 
@@ -88,6 +91,7 @@ Completed the first academic year successfully before focusing full-time on prof
 ![GitLab](https://img.shields.io/badge/GitLab-2B0B3F?style=for-the-badge\&logo=gitlab)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-2B0B3F?style=for-the-badge\&logo=bitbucket)
 ![Jira](https://img.shields.io/badge/Jira-2B0B3F?style=for-the-badge\&logo=jira)
+![ClickUp](https://img.shields.io/badge/ClickUp-2B0B3F?style=for-the-badge\&logo=clickup)
 ![Docker](https://img.shields.io/badge/Docker-2B0B3F?style=for-the-badge\&logo=docker)
 
 ---
@@ -95,7 +99,8 @@ Completed the first academic year successfully before focusing full-time on prof
 ## Platforms / Ecosystem
 
 ![Shopify](https://img.shields.io/badge/Shopify-2B0B3F?style=for-the-badge\&logo=shopify)
-![Salesforce](https://img.shields.io/badge/Salesforce-2B0B3F?style=for-the-badge\&logo=salesforce)
+![Salesforce](https://img.shields.io/badge/Salesforce-2B0B3F?style=for-the-badge\&logo=icloud)
+![Wordpress](https://img.shields.io/badge/Wordpress-2B0B3F?style=for-the-badge\&logo=wordpress)
 
 ### Other Experience:
 
@@ -110,7 +115,10 @@ Completed the first academic year successfully before focusing full-time on prof
 ## Environment / Tools
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-2B0B3F?style=for-the-badge\&logo=ubuntu)
+![Linux Server](https://img.shields.io/badge/LinuxServer-2B0B3F?style=for-the-badge\&logo=linuxserver)
 ![Nginx](https://img.shields.io/badge/Nginx-2B0B3F?style=for-the-badge\&logo=nginx)
+![Eslint](https://img.shields.io/badge/Eslint-2B0B3F?style=for-the-badge\&logo=eslint)
+![Prettier](https://img.shields.io/badge/Prettier-2B0B3F?style=for-the-badge\&logo=prettier)
 
 ---
 
@@ -155,7 +163,7 @@ Completed the first academic year successfully before focusing full-time on prof
 ---
 
 <p align="center">
-💜 Passionate about building modern web experiences
+Develop with love 💜
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=120&section=footer"/>
