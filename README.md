@@ -57,7 +57,7 @@ Completed the first academic year successfully before focusing full-time on prof
 ## Frontend
 
 ![React](https://img.shields.io/badge/React-2B0B3F?style=for-the-badge\&logo=react)
-![React-router](https://img.shields.io/badge/ReactRouterDom-2B0B3F?style=for-the-badge\&logo=react-router)
+![React-router](https://img.shields.io/badge/ReactRouter-2B0B3F?style=for-the-badge\&logo=react-router)
 ![Next.js](https://img.shields.io/badge/Next.js-2B0B3F?style=for-the-badge\&logo=nextdotjs)
 ![TanStack](https://img.shields.io/badge/TanStack-2B0B3F?style=for-the-badge\&logo=reactquery)
 ![Axios](https://img.shields.io/badge/Axios-2B0B3F?style=for-the-badge\&logo=axios)
