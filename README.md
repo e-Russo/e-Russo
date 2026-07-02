@@ -57,8 +57,10 @@ Completed the first academic year successfully before focusing full-time on prof
 ## Frontend
 
 ![React](https://img.shields.io/badge/React-2B0B3F?style=for-the-badge\&logo=react)
+![React-router](https://img.shields.io/badge/ReactRouterDom-2B0B3F?style=for-the-badge\&logo=react-router)
 ![Next.js](https://img.shields.io/badge/Next.js-2B0B3F?style=for-the-badge\&logo=nextdotjs)
 ![TanStack](https://img.shields.io/badge/TanStack-2B0B3F?style=for-the-badge\&logo=reactquery)
+![Axios](https://img.shields.io/badge/Axios-2B0B3F?style=for-the-badge\&logo=axios)
 ![Chakra UI](https://img.shields.io/badge/ChakraUI-2B0B3F?style=for-the-badge\&logo=chakraui)
 ![SASS](https://img.shields.io/badge/SASS-2B0B3F?style=for-the-badge\&logo=sass)
 ![jQuery](https://img.shields.io/badge/jQuery-2B0B3F?style=for-the-badge\&logo=jquery)
@@ -121,18 +123,7 @@ Completed the first academic year successfully before focusing full-time on prof
 ![Prettier](https://img.shields.io/badge/Prettier-2B0B3F?style=for-the-badge\&logo=prettier)
 ![Google Analytics](https://img.shields.io/badge/GoogleAnalytics-2B0B3F?style=for-the-badge\&logo=googleanalytics)
 ![Splunk](https://img.shields.io/badge/Splunk-2B0B3F?style=for-the-badge\&logo=splunk)
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=e-Russo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=A855F7&icon_color=A855F7"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=e-Russo&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=A855F7"/>
-
-</p>
+![Auth0JWT](https://img.shields.io/badge/Auth0JWT-2B0B3F?style=for-the-badge\&logo=Auth0)
 
 ---
 
