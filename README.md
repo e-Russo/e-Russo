@@ -1,9 +1,5 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=120&section=header"/>
-<h1 align="center">Hi 👋 I'm Emanuele Russo</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=200&section=header&text=Hi%20%F0%9F%91%8B%20I'm%20Emanuele%20Russo&fontSize=30&fontColor=ffffff&fontAlignY=25&desc=Frontend%20Engineer%20%E2%80%A2%20TypeScript%20Specialist%20%E2%80%A2%20React%20Ecosystems&descAlignY=40&descSize=14"/>
 
-<p align="center">
-Frontend Engineer • TypeScript Specialist • React Ecosystems
-</p>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=2000&pause=2000&color=A855F7&center=true&vCenter=true&width=650&lines=Frontend+Engineer+from+Italy+🇮🇹;TypeScript+%2B+React+Specialist;Enterprise+Frontend+Developer;Passionate+about+modern+web+experiences" />
