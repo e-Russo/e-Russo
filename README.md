@@ -32,7 +32,7 @@ Completed the first academic year successfully before focusing full-time on prof
 
 - Gaming
 - Sports
-- Mountain trips
+- Anime & Manga
 
 ---
 
