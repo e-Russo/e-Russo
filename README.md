@@ -43,7 +43,7 @@ Completed the first academic year successfully before focusing full-time on prof
 ![JavaScript](https://img.shields.io/badge/JavaScript-2B0B3F?style=for-the-badge\&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-2B0B3F?style=for-the-badge\&logo=typescript)
 ![C](https://img.shields.io/badge/C-2B0B3F?style=for-the-badge\&logo=c)
-![Java](https://img.shields.io/badge/Java-2B0B3F?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-2B0B3F?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0zIDloMTR2NmE1IDUgMCAwIDEtNSA1SDhhNSA1IDAgMCAxLTUtNXoiLz48cGF0aCBkPSJNMTcgMTFoMS41YTIuNSAyLjUgMCAwIDEgMCA1SDE3di0xLjVoMS41YTEgMSAwIDAgMCAwLTJIMTd6Ii8%2BPHBhdGggZD0iTTggMmMtMSAxLjUgMSAyLjUgMCA0TTEyIDJjLTEgMS41IDEgMi41IDAgNCIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjMiIGZpbGw9Im5vbmUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPjwvc3ZnPg%3D%3D)
 ![Python](https://img.shields.io/badge/Python-2B0B3F?style=for-the-badge\&logo=python)
 
 ---
