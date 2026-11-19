@@ -129,7 +129,7 @@ Focusing full-time on professional development and real-world engineering experi
 <div align="center">
   <a href="https://linkedin.com/in/emanuelerusso03"><img width="300" alt="LinkedIn" src="https://capsule-render.vercel.app/api?type=rounded&color=0:0A8FD8,100:4C5FD7&height=240&text=LinkedIn%20%E2%86%97&fontSize=80&fontColor=ffffff&fontAlignY=42&desc=emanuelerusso03&descSize=36&descAlignY=72&animation=fadeIn"/></a>
   &nbsp;
-  <a href="https://emanuele.app"><img width="300" alt="Portfolio" src="https://capsule-render.vercel.app/api?type=rounded&color=0:4C5FD7,100:8E44D6&height=240&text=Portfolio%20%E2%86%97&fontSize=80&fontColor=ffffff&fontAlignY=42&desc=emanuele.app&descSize=36&descAlignY=72&animation=fadeIn"/></a>
+  <a href="https://emanuele.app/portfolio"><img width="300" alt="Portfolio" src="https://capsule-render.vercel.app/api?type=rounded&color=0:4C5FD7,100:8E44D6&height=240&text=Portfolio%20%E2%86%97&fontSize=80&fontColor=ffffff&fontAlignY=42&desc=emanuele.app&descSize=36&descAlignY=72&animation=fadeIn"/></a>
 </div>
 
 ---
