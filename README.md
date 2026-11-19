@@ -53,7 +53,7 @@ Completed the first academic year successfully before focusing full-time on prof
 ## Frontend
 
 ![React](https://img.shields.io/badge/React-2B0B3F?style=for-the-badge\&logo=react)
-![React-router](https://img.shields.io/badge/ReactRouter-2B0B3F?style=for-the-badge\&logo=react-router)
+![React-router](https://img.shields.io/badge/ReactRouter-2B0B3F?style=for-the-badge\&logo=reactrouter)
 ![Next.js](https://img.shields.io/badge/Next.js-2B0B3F?style=for-the-badge\&logo=nextdotjs)
 ![TanStack](https://img.shields.io/badge/TanStack-2B0B3F?style=for-the-badge\&logo=reactquery)
 ![Axios](https://img.shields.io/badge/Axios-2B0B3F?style=for-the-badge\&logo=axios)
@@ -63,6 +63,7 @@ Completed the first academic year successfully before focusing full-time on prof
 ![AstroJS](https://img.shields.io/badge/AstroJS-2B0B3F?style=for-the-badge\&logo=astro)
 ![Jest](https://img.shields.io/badge/Jest-2B0B3F?style=for-the-badge\&logo=jest)
 ![Vitest](https://img.shields.io/badge/Vitest-2B0B3F?style=for-the-badge\&logo=vitest)
+![LWC](https://img.shields.io/badge/LWC-2B0B3F?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjMuNSAwLjUgMTcgMjMiPjxwYXRoIGZpbGw9IiMwMEExRTAiIGQ9Ik0xNC41IDEgNC41IDEzLjVoNi41TDkuNSAyM2wxMC0xMi41SDEzeiIgc3Ryb2tlPSIjMDBBMUUwIiBzdHJva2Utd2lkdGg9IjEiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz48L3N2Zz4%3D)
 
 ---
 
@@ -98,16 +99,9 @@ Completed the first academic year successfully before focusing full-time on prof
 ## Platforms / Ecosystem
 
 ![Shopify](https://img.shields.io/badge/Shopify-2B0B3F?style=for-the-badge\&logo=shopify)
-![Salesforce](https://img.shields.io/badge/Salesforce-2B0B3F?style=for-the-badge\&logo=icloud)
+![Salesforce](https://img.shields.io/badge/Salesforce-2B0B3F?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMyAyNCAxNyI%2BPHBhdGggZmlsbD0iIzAwQTFFMCIgZD0iTTYuNSAxOS41YTUgNSAwIDAgMS0uOS05LjkyQTYuNSA2LjUgMCAwIDEgMTcuOSA4LjYgNS41IDUuNSAwIDAgMSAxOCAxOS41eiIvPjwvc3ZnPg%3D%3D)
 ![Wordpress](https://img.shields.io/badge/Wordpress-2B0B3F?style=for-the-badge\&logo=wordpress)
-
-### Other Experience:
-
-* Lightning Web Components (LWC)
-* CoreMedia CMS
-* Enterprise frontend architecture
-* Design systems
-* Headless commerce
+![CoreMedia](https://img.shields.io/badge/CoreMedia-2B0B3F?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGcgZmlsbD0iI0ZGRkZGRiI%2BPHBhdGggZD0iTTQgMmgxNmEyLjUgMi41IDAgMCAxIDIuNSAyLjV2MTVBMi41IDIuNSAwIDAgMSAyMCAyMkg0YTIuNSAyLjUgMCAwIDEtMi41LTIuNXYtMTVBMi41IDIuNSAwIDAgMSA0IDJ6bTAgNnYxMS41aDE2Vjh6Ii8%2BPHJlY3QgeD0iNS41IiB5PSIxMCIgd2lkdGg9IjYiIGhlaWdodD0iNy41IiByeD0iMSIvPjxyZWN0IHg9IjEzIiB5PSIxMCIgd2lkdGg9IjUuNSIgaGVpZ2h0PSIyIiByeD0iMSIvPjxyZWN0IHg9IjEzIiB5PSIxMy41IiB3aWR0aD0iNS41IiBoZWlnaHQ9IjIiIHJ4PSIxIi8%2BPC9nPjwvc3ZnPg%3D%3D)
 
 ---
 
