@@ -12,7 +12,7 @@
 💻 Frontend Engineer with **several years of experience in enterprise environments**
 
 🎓 Background in **Computer Science** and **Computer Engineering**  
-Completed the first academic year successfully before focusing full-time on professional development and real-world engineering experience.
+Focusing full-time on professional development and real-world engineering experience.
 
 🏢 I've contributed to projects involving brands like:
 
