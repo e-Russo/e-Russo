@@ -132,7 +132,6 @@ Completed the first academic year successfully before focusing full-time on prof
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-2B0B3F?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRkZGRkZGIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiLz48cGF0aCBkPSJNMiAxMmgyMCIvPjxwYXRoIGQ9Ik0xMiAyYzIuOCAzIDQgNi41IDQgMTBzLTEuMiA3LTQgMTBjLTIuOC0zLTQtNi41LTQtMTBzMS4yLTcgNC0xMHoiLz48L3N2Zz4%3D)](https://emanuelerusso.dev)
-[![GitHub](https://img.shields.io/badge/GitHub-2B0B3F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/e-Russo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2B0B3F?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMSAyNCAyMiI%2BPGcgZmlsbD0iIzBBNjZDMiI%2BPHBhdGggZD0iTTggNVY0YTIgMiAwIDAgMSAyLTJoNGEyIDIgMCAwIDEgMiAydjFoNC41QTIuNSAyLjUgMCAwIDEgMjMgNy41VjExSDFWNy41QTIuNSAyLjUgMCAwIDEgMy41IDV6bTIgMGg0VjRoLTR6Ii8%2BPHBhdGggZD0iTTEgMTNoOXYxLjVhMSAxIDAgMCAwIDEgMWgyYTEgMSAwIDAgMCAxLTFWMTNoOXY2LjVhMi41IDIuNSAwIDAgMS0yLjUgMi41aC0xN0EyLjUgMi41IDAgMCAxIDEgMTkuNXoiLz48L2c%2BPC9zdmc%2B)](https://linkedin.com/in/emanuelerusso03)
 
 </div>
