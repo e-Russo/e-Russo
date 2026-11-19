@@ -130,9 +130,9 @@ Completed the first academic year successfully before focusing full-time on prof
 # 🌐 Connect with me
 
 <div align="center">
-  <a href="https://emanuelerusso.dev"><img width="300" alt="Portfolio" src="https://capsule-render.vercel.app/api?type=rounded&color=0:6B2FA3,100:1E0830&height=90&text=Portfolio&fontSize=28&fontColor=ffffff&fontAlignY=42&desc=emanuelerusso.dev&descSize=14&descAlignY=72"/></a>
+  <a href="https://emanuelerusso.dev"><img width="300" alt="Portfolio" src="https://capsule-render.vercel.app/api?type=rounded&color=0:6B2FA3,100:1E0830&height=240&text=Portfolio&fontSize=80&fontColor=ffffff&fontAlignY=42&desc=emanuelerusso.dev&descSize=36&descAlignY=72"/></a>
   &nbsp;
-  <a href="https://linkedin.com/in/emanuelerusso03"><img width="300" alt="LinkedIn" src="https://capsule-render.vercel.app/api?type=rounded&color=0:007EBB,100:1E0830&height=90&text=LinkedIn&fontSize=28&fontColor=ffffff&fontAlignY=42&desc=emanuelerusso03&descSize=14&descAlignY=72"/></a>
+  <a href="https://linkedin.com/in/emanuelerusso03"><img width="300" alt="LinkedIn" src="https://capsule-render.vercel.app/api?type=rounded&color=0:007EBB,100:1E0830&height=240&text=LinkedIn&fontSize=80&fontColor=ffffff&fontAlignY=42&desc=emanuelerusso03&descSize=36&descAlignY=72"/></a>
 </div>
 
 
