@@ -42,10 +42,8 @@ Completed the first academic year successfully before focusing full-time on prof
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-2B0B3F?style=for-the-badge\&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-2B0B3F?style=for-the-badge\&logo=typescript)
-![HTML5](https://img.shields.io/badge/HTML5-2B0B3F?style=for-the-badge\&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-2B0B3F?style=for-the-badge\&logo=css3)
 ![C](https://img.shields.io/badge/C-2B0B3F?style=for-the-badge\&logo=c)
-![Java](https://img.shields.io/badge/Java-2B0B3F?style=for-the-badge\&logo=java)
+![Java](https://img.shields.io/badge/Java-2B0B3F?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-2B0B3F?style=for-the-badge\&logo=python)
 
 ---
