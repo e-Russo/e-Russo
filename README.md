@@ -47,7 +47,6 @@ Completed the first academic year successfully before focusing full-time on prof
 ![Python](https://img.shields.io/badge/Python-2B0B3F?style=for-the-badge\&logo=python)
 ![Apex](https://img.shields.io/badge/Apex-2B0B3F?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMyAyNCAxNyI%2BPHBhdGggZmlsbD0iIzAwQTFFMCIgZD0iTTYuNSAxOS41YTUgNSAwIDAgMS0uOS05LjkyQTYuNSA2LjUgMCAwIDEgMTcuOSA4LjYgNS41IDUuNSAwIDAgMSAxOCAxOS41eiIvPjwvc3ZnPg%3D%3D)
 ![Lua](https://img.shields.io/badge/Lua-2B0B3F?style=for-the-badge&logo=lua&logoColor=white)
-![Batch](https://img.shields.io/badge/Batch-2B0B3F?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iMS41IiB5PSIzIiB3aWR0aD0iMjEiIGhlaWdodD0iMTgiIHJ4PSIyLjUiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0ZGRkZGRiIgc3Ryb2tlLXdpZHRoPSIyIi8%2BPHBhdGggZD0iTTYgOWw0IDMtNCAzIiBmaWxsPSJub25lIiBzdHJva2U9IiNGRkZGRkYiIHN0cm9rZS13aWR0aD0iMi4yIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz48cGF0aCBkPSJNMTIgMTZoNiIgc3Ryb2tlPSIjRkZGRkZGIiBzdHJva2Utd2lkdGg9IjIuMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8%2BPC9zdmc%2B)
 
 ---
 
@@ -80,6 +79,7 @@ Completed the first academic year successfully before focusing full-time on prof
 
 ![MySQL](https://img.shields.io/badge/MySQL-2B0B3F?style=for-the-badge\&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-2B0B3F?style=for-the-badge\&logo=mongodb)
+![SOQL/SOSL](https://img.shields.io/badge/SOQL%2FSOSL-2B0B3F?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjIgMC41IDIwIDIzIj48ZyBmaWxsPSIjMDBBMUUwIj48ZWxsaXBzZSBjeD0iMTIiIGN5PSI0LjUiIHJ4PSI5IiByeT0iMy41Ii8%2BPHBhdGggZD0iTTMgN3Y0LjVjMCAxLjkgNCAzLjUgOSAzLjVzOS0xLjYgOS0zLjVWN2MwIDEuOS00IDMuNS05IDMuNVMzIDguOSAzIDd6Ii8%2BPHBhdGggZD0iTTMgMTR2NS41QzMgMjEuNCA3IDIzIDEyIDIzczktMS42IDktMy41VjE0YzAgMS45LTQgMy41LTkgMy41UzMgMTUuOSAzIDE0eiIvPjwvZz48L3N2Zz4%3D)
 
 ---
 
@@ -121,6 +121,7 @@ Completed the first academic year successfully before focusing full-time on prof
 ![Google Analytics](https://img.shields.io/badge/GoogleAnalytics-2B0B3F?style=for-the-badge\&logo=googleanalytics)
 ![Splunk](https://img.shields.io/badge/Splunk-2B0B3F?style=for-the-badge\&logo=splunk)
 ![Auth0JWT](https://img.shields.io/badge/Auth0JWT-2B0B3F?style=for-the-badge\&logo=Auth0)
+![Batch](https://img.shields.io/badge/Batch-2B0B3F?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iMS41IiB5PSIzIiB3aWR0aD0iMjEiIGhlaWdodD0iMTgiIHJ4PSIyLjUiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0ZGRkZGRiIgc3Ryb2tlLXdpZHRoPSIyIi8%2BPHBhdGggZD0iTTYgOWw0IDMtNCAzIiBmaWxsPSJub25lIiBzdHJva2U9IiNGRkZGRkYiIHN0cm9rZS13aWR0aD0iMi4yIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz48cGF0aCBkPSJNMTIgMTZoNiIgc3Ryb2tlPSIjRkZGRkZGIiBzdHJva2Utd2lkdGg9IjIuMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8%2BPC9zdmc%2B)
 
 ---
 
