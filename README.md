@@ -25,9 +25,6 @@ Focusing full-time on professional development and real-world engineering experi
 - Event-it
 - Sikuro Group *(current)*
 
-🌍 Portfolio  
-👉 **https://emanuelerusso.dev**
-
 🎮 Outside tech I enjoy:
 
 - Gaming
